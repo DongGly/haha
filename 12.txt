@@ -1,0 +1,10 @@
+Tickers with no data: ['FB', 'ATVI', 'FISV', 'SGEN', 'CERN', 'ALXN', 'MXIM', 'XLNX', 'CTXS', 'BLL', 'NLOK']
+11
+
+FB = META
+ATVI = ATVIX
+FISV = FISV.VI
+SGEN = SGEN
+CERN = 0
+ALXN = 0
+CTXS = 0
